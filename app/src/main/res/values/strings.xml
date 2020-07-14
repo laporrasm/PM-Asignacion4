@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeApp</string>
+    <string name="title_activity_movies_list">My Compose App</string>
+    <string name="title_activity_movie_details">My Compose App</string>
+</resources>

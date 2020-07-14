@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107529452664",
+    "firebase_url": "https://cine-luna-compose.firebaseio.com",
+    "project_id": "cine-luna-compose",
+    "storage_bucket": "cine-luna-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107529452664:android:eddda73cbdfe0f0e17018d",
+        "android_client_info": {
+          "package_name": "com.example.jetpackcomposeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107529452664-9gskdevr6mbhnjhbi6tcuc8b77ovit6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Ua6W6wiVzepSS_Wl8mEUpB2NuWQabKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107529452664-9gskdevr6mbhnjhbi6tcuc8b77ovit6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
